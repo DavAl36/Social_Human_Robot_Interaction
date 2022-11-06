@@ -1,0 +1,37 @@
+Agent: Tell me something
+Human: go to position 1, 1
+Agent: Now I am in position 1, 1
+Human: there is a table
+Agent: Tell me the right orientation
+Human: down
+Agent: There is a table in position 2, 1
+Human: go to position 6, 2
+Agent: Now I am in position 6, 2
+Human: there is a box
+Agent: Tell me the right orientation
+Human: down
+Agent: There is a box in position 7, 2
+Human: go to position 5, 2
+Agent: Now I am in position 5, 2
+Human: there is a painting
+Agent: Tell me the right orientation
+Human: left
+Agent: There is a painting in position 5, 1
+Human: go to position 7, 6
+Agent: Now I am in position 7, 6
+Human: there is a bike
+Agent: Tell me the right orientation
+Human: right
+Agent: There is a bike in position 7, 7
+Human: how many objects do you know
+Agent: I know 4 objects
+Human: which object do you know
+Agent: I do not understand, please ask me something else
+Human: which objects do you know
+Agent: I know :['table', 'box', 'painting', 'bike']
+Human: where is the table
+Agent: There is a table in position 2, 1
+Human: how do you feel
+Agent: When I talk to someone I am always fine
+Human: goodbye
+Agent: See you later, bye,bye 
